@@ -1,0 +1,14 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+//resources/sass/pages*
+@import "./pages/table";
+@import "./pages/adduser";
+
+//resources/sass/ui*
+@import "./ui/alignment";
